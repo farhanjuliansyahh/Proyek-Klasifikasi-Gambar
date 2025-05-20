@@ -35,6 +35,6 @@ Model ini menggunakan Convolutional Neural Network (CNN) dengan beberapa layer k
 - Total semua gambar: 21000 (dengan setiap label berjumlah masing-masing 1400).
 - Format: `.jpg`
 - Dataset sudah di split menjadi training, validation, dan testing dengan rasio 70,15,15.
-- 
+
 ## Hasil Pemodelan
 Akurasi bisa disekitar 95 persen dan ini menunjukan hasil yang sangat baik.
