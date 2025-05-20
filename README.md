@@ -32,8 +32,7 @@ Model ini menggunakan Convolutional Neural Network (CNN) dengan beberapa layer k
 - Model dilatih selama **32 epoch** dengan menggunakan generator untuk pelatihan dan validasi, serta callback yang telah disebutkan.
 
 ## Dataset
-- Total gambar: ±8421 gambar
-- Ukuran gambar: 512x512 piksel
+- Total semua gambar: 21000 (dengan setiap label berjumlah masing-masing 1400).
 - Format: `.jpg`
 - Dataset sudah di split menjadi training, validation, dan testing dengan rasio 70,15,15.
 - 
